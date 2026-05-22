@@ -40,3 +40,7 @@ When the **Generate User** button is clicked, a new random user is fetched and d
 Random User API
 
 https://randomuser.me/
+
+---
+# Its on netlify
+https://random-user0054.netlify.app/
